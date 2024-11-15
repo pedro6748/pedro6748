@@ -1,16 +1,12 @@
-## Hi there 👋
+## pedro
 
-<!--
-**pedro6748/pedro6748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 17 anos
+- torco para o sao paulo
+- cidade santa lucia
+- tenho uma moto
+- moro com meu pai
+- gosto de treinar
+- bebo aos sabados e domingos
+- gosto de pasear
+- gosto de filme de acao
+- tenho um metro e oitenta
